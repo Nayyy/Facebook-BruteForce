@@ -10,7 +10,7 @@ Bruteforce attack for Facebook Account
 
 ## Run commands one by one
 ```
->> git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+>> git clone https://github.com/Nayy/Facebook-BruteForce
 >> cd Facebook-BruteForce
 >> pip3 install requests bs4
 >> pip install mechanize
@@ -18,9 +18,9 @@ Bruteforce attack for Facebook Account
 ```
 
 ## Screenshots
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture2.JPG)
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture3.JPG)
+![CAPTURE 1](https://github.com/Nayy/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
+![CAPTURE 1](https://github.com/Nayy/Facebook-BruteForce/blob/master/Screenshots/Capture2.JPG)
+![CAPTURE 1](https://github.com/Nayy/Facebook-BruteForce/blob/master/Screenshots/Capture3.JPG)
 
 ## Protection Against Attacker
 * Use Strong Password(which contains standard password chars + longest as possible)
